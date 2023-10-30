@@ -1,0 +1,6 @@
+{
+    "terminal.integrated.env.windows": {
+        "PATH": "C:\\Users\\Angie\\.platformio\\penv\\Scripts;C:\\Users\\Angie\\.platformio\\penv;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;;C:\\Users\\Angie\\AppData\\Local\\Programs\\Microsoft VS Code Insiders\\bin;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;;C:\\Users\\Angie\\AppData\\Local\\Programs\\Microsoft VS Code Insiders\\bin",
+        "PLATFORMIO_CALLER": "vscode"
+    }
+}
